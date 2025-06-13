@@ -17,7 +17,7 @@
 Link: www.FacialExpressionRecognition.com
 
 
-## **5. Screenshot of the Interface**
+
 
 
 
